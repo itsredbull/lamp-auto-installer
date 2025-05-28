@@ -84,25 +84,6 @@ MySQL/MariaDB root password: temp_password
    sudo ufw enable
    ```
 
-## 🚨 Reporting Security Vulnerabilities
-
-If you discover a security vulnerability, please follow responsible disclosure:
-
-### For Script Vulnerabilities
-1. **DO NOT** open a public issue
-2. Email: [your-security-email@domain.com]
-3. Include:
-   - Description of the vulnerability
-   - Steps to reproduce
-   - Potential impact
-   - Suggested fix (if any)
-
-### Response Timeline
-- **24 hours**: Initial response
-- **72 hours**: Vulnerability assessment
-- **7 days**: Security patch (if confirmed)
-- **14 days**: Public disclosure (after fix)
-
 ## 🔍 Security Checklist
 
 ### Before Running the Script

@@ -6,6 +6,19 @@
 
 A robust, cross-platform bash script that automatically detects your Linux distribution and installs a complete LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack with comprehensive error handling and logging.
 
+## Install with One Click 🚀  
+
+Deploy this script effortlessly on your **[MyHBD.net](https://www.myhbd.net)** server with just a single click!  
+
+### Why Choose MyHBD.net?  
+✅ High-performance VPS solutions  
+✅ Multiple data centers across Europe & Asia  
+✅ Reliable and optimized for seamless deployment  
+
+Start now and streamline your server setup with ease!  
+
+
+
 ## 🚀 Features
 
 - **Cross-Platform Support**: Works on Ubuntu, Debian, CentOS, RHEL, Fedora, Rocky Linux, AlmaLinux
